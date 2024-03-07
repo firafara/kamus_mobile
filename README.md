@@ -1,6 +1,6 @@
 # kamus_mobile
 
-Project 1 Mobile
+aplikasi kamus inggris indonesia berbasis mobile
 
 ## Getting Started
 
